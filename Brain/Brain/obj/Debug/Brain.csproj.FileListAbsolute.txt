@@ -1,0 +1,13 @@
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\Brain.dll.config
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\Brain.dll
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\Brain.pdb
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\VkNet.dll
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\VkNet.pdb
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\bin\Debug\VkNet.xml
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\obj\Debug\Brain.dll
+C:\Users\Александр\Desktop\Documents\GitHubVisualStudio\Bot\Brain\Brain\obj\Debug\Brain.pdb
