@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4B69D25C-AE7F-4871-B863-EE4F3F7CB975}</ProjectGuid>
+    <ProjectGuid>{C68AF399-37C3-4A7F-A3E8-B390C86912C5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Brain</RootNamespace>
@@ -52,8 +52,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BotSingleton.cs" />
     <Compile Include="BotWall.cs" />
-    <Compile Include="BotVkApi.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

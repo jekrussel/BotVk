@@ -19,4 +19,4 @@ namespace Brain
             bot.Api.Wall.Post(post);
         }
     }
-}   
+}
