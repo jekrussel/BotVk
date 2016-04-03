@@ -11,7 +11,7 @@
 
 #References
 
-Для создания бота используется:
+При создании бота используется:
 - [vknet](https://github.com/vknet/vk) - [VK Api](https://github.com/vknet/vk) VK Api для .NET
 - [Json.Net](http://www.newtonsoft.com/json)
 - [HtmlAgilityPack](http://htmlagilitypack.codeplex.com/)
